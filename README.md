@@ -7,7 +7,7 @@ This repository contains images and a final video generated from the AI-I2V proj
 ## Images
 
 ### Original Image
-11
+![Original](https://github.com/user-attachments/assets/cd7eb319-90c0-4e2d-a959-bde4b142cddd)
 
 ### Edited Image
 22
