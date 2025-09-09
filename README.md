@@ -7,15 +7,15 @@ This repository contains images and a final video generated from the AI-I2V proj
 ## Images
 
 ### Original Image
-![Original](https://github.com/user-attachments/assets/cd7eb319-90c0-4e2d-a959-bde4b142cddd)
+![Original](https://github.com/dyyeon/AI-I2V-with-nanobanana-veo3/blob/742b32be91252e0b8c32631047747d6165b63471/assets/1.png)
 
 ### Edited Image
-22
+![Edited](https://github.com/dyyeon/AI-I2V-with-nanobanana-veo3/blob/742b32be91252e0b8c32631047747d6165b63471/assets/2.png)
 
 ---
 
 ## Final Video
-33
+![Final Video](https://github.com/dyyeon/AI-I2V-with-nanobanana-veo3/blob/742b32be91252e0b8c32631047747d6165b63471/assets/5.gif)
 
 ---
 
