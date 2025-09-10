@@ -10,9 +10,9 @@
 ![Original](https://github.com/dyyeon/AI-I2V-with-nanobanana-veo3/blob/742b32be91252e0b8c32631047747d6165b63471/assets/1.png)
 
 <details>
-<summary><i>프롬프트 설명 보기</i></summary>
+<summary>프롬프트 설명 보기</summary>
 
-의자 색깔을 붉은색으로 바꾸고, 빈 액자에는 동양화를 그려 넣어줘.
+<i>의자 색깔을 붉은색으로 바꾸고, 빈 액자에는 동양화를 그려 넣어줘.</i>
 
 </details>
 
@@ -22,7 +22,18 @@
 ---
 
 <details>
-<summary><i>프롬프트 설명 보기</i></summary>
+<summary>프롬프트 설명 보기</summary>
+
+<i>
+카메라는 회색 벽에 걸린 동양화를 비춘다. 줌인하며 그림 속으로 순식간에 빨려 들어간다.
+장면이 바뀌어 그림 속 세계의 길 위에 서 있다. 흙길과 소나무, 계곡, 정자가 보인다.
+카메라는 정자 앞으로 다가갔다가 고개를 들어 웅장한 산봉우리를 비춘다.
+하늘로 치솟으며 풍경 전체를 비추고, 곧 장면이 평면 그림으로 변해 다시 거실 벽의 액자로 돌아온다.
+</i>
+
+</details>
+
+
 ## Final Video
 ![Final Video](https://github.com/dyyeon/AI-I2V-with-nanobanana-veo3/blob/742b32be91252e0b8c32631047747d6165b63471/assets/5.gif)
 
