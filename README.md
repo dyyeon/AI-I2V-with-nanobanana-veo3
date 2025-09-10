@@ -9,13 +9,20 @@
 ### Original Image
 ![Original](https://github.com/dyyeon/AI-I2V-with-nanobanana-veo3/blob/742b32be91252e0b8c32631047747d6165b63471/assets/1.png)
 
-*내용* <!-- 내용 -->
+<details>
+<summary><i>프롬프트 설명 보기</i></summary>
+
+의자 색깔을 붉은색으로 바꾸고, 빈 액자에는 동양화를 그려 넣어줘.
+
+</details>
+
 ### Edited Image
 ![Edited](https://github.com/dyyeon/AI-I2V-with-nanobanana-veo3/blob/742b32be91252e0b8c32631047747d6165b63471/assets/2.png)
 
 ---
 
-*내용* <!-- 내용 -->
+<details>
+<summary><i>프롬프트 설명 보기</i></summary>
 ## Final Video
 ![Final Video](https://github.com/dyyeon/AI-I2V-with-nanobanana-veo3/blob/742b32be91252e0b8c32631047747d6165b63471/assets/5.gif)
 
